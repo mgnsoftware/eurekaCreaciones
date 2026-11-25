@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mgnsoftware.github.io/eurekaCreaciones/sitemap.xml
